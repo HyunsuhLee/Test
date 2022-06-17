@@ -10,7 +10,7 @@ Lable과 button, imageView, alert 그리고 switch를 사용하였습니다.
 
 * 사용한 난수 코드 
 
-  var number = Int.random(in: n...m)
+  random(in: n...m)
 
 난수의 수를 이용하여 50%의 확률과 10%의 확률을 조정하였습니다.
 
